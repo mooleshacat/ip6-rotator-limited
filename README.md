@@ -3,4 +3,4 @@ IPV6 rotator for those with limited number of IP's. Meant for invidious, but cou
 
 Owner currently testing 5 IP limit rotated every 12 hours.
 
-script in development, currently not working.
+currently not working.
