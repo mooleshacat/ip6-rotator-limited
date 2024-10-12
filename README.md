@@ -4,3 +4,5 @@ IPV6 rotator for those with limited number of IP's. Meant for invidious, but cou
 Owner currently testing 5 IP limit rotated every 12 hours.
 
 currently not working.
+
+no plans to develop any further, using VPN's instead.
